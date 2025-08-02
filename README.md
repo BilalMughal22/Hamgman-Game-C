@@ -1,4 +1,6 @@
 Project - Hangman Game- C++
+
+
 		The Hangman Game project is a console-based application developed in C++ The game is a classic word-guessing game where players attempt to discover a secret word by suggesting letters. The project integrates various features, including different difficulty levels, ASCII art for the hangman display, and a user-friendly interface.
 Features:
 1.	Difficulty Levels:
